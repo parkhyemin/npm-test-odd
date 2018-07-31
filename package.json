@@ -1,11 +1,15 @@
 {
   "name": "npm-test-odd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hye-min Park",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/parkhyemin/npm-test-odd.git"
+  },
   "license": "ISC"
 }
